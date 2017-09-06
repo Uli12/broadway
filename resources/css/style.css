@@ -6,13 +6,15 @@ html {
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white;
 }
 
 ul {
   list-style-type: none;
+  color: white;
+  font-size: 18px;
 }
 
-#top {
-  color: white;
+.top {
   background-image: url("../images/the-flatiron-building.png");
 }
