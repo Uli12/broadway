@@ -3,13 +3,13 @@ html {
   text-align: center;
 }
 
-#header {
+h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
-ul {
+.navigation {
   list-style-type: none;
   color: white;
   font-size: 18px;
@@ -17,4 +17,9 @@ ul {
 
 .top {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+ul{
+  list-style-type: none;
 }
