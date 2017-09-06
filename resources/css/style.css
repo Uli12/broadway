@@ -12,7 +12,7 @@ ul {
   list-style-type: none;
 }
 
-.top {
+#top {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
