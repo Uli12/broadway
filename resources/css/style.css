@@ -3,7 +3,7 @@ html {
   text-align: center;
 }
 
-#broadway {
+h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -22,4 +22,5 @@ html {
 
 ul{
   list-style-type: none;
+  color: black;
 }
