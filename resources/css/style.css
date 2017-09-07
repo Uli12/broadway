@@ -9,10 +9,14 @@ h1 {
   color: white;
 }
 
-li.header-nav {
+.header-nav {
   list-style-type: none;
   color: white;
   font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 .top {
