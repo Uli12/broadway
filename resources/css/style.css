@@ -9,7 +9,7 @@ h1 {
   color: white;
 }
 
-.header-nav {
+li.header-nav {
   list-style-type: none;
   color: white;
   font-size: 18px;
