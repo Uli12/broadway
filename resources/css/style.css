@@ -29,5 +29,17 @@ h1 {
 }
 
 footer {
-  text-align: right;
+  text-align: left;
+  background-color: dimgray;
+}
+
+#footer-broadway{
+  color: white;
+  font-size: 11px;
+}
+
+.footer-nav a {
+  color: white;
+  display: inline;
+
 }
