@@ -24,6 +24,19 @@ ul {
   color: white;
 }
 
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.detail {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
 
 #ny {
   background-image: url("../images/the-flatiron-building.png");
