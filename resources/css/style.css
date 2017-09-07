@@ -37,12 +37,12 @@ footer {
   background-color: dimgray;
   color: white;
   line-height: 25px;
+  padding-bottom: 3px;
 }
 
 #footer-broadway {
   font-size: 11px;
   float: left;
-  padding-bottom: 3px;
 }
 
 .footer-nav a {
