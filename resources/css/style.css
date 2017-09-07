@@ -31,10 +31,10 @@ h1 {
 footer {
   text-align: left;
   background-color: dimgray;
+  color: white;
 }
 
-#footer-broadway p {
-  color: white;
+#footer-broadway {
   font-size: 11px;
   display: inline;
 }
@@ -42,5 +42,4 @@ footer {
 .footer-nav a {
   color: white;
   display: inline;
-
 }
