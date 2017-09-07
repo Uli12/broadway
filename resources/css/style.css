@@ -42,6 +42,7 @@ footer {
 #footer-broadway {
   font-size: 11px;
   float: left;
+  vertical-align: middle;
 }
 
 .footer-nav a {
