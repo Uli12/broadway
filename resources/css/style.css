@@ -36,6 +36,7 @@ footer {
   text-align: left;
   background-color: dimgray;
   color: white;
+  display: inline-block;
 }
 
 #footer-broadway {
