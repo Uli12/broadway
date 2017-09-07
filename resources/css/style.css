@@ -33,9 +33,10 @@ footer {
   background-color: dimgray;
 }
 
-#footer-broadway{
+#footer-broadway p {
   color: white;
   font-size: 11px;
+  display: inline;
 }
 
 .footer-nav a {
