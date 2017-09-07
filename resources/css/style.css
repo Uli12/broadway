@@ -23,5 +23,11 @@ h1 {
 ul{
   list-style-type: none;
   color: black;
-  text-align: center;
+}
+
+h2{
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
