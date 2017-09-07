@@ -36,6 +36,7 @@ footer {
 
 #footer-broadway {
   font-size: 11px;
+  float: left;
 }
 
 .footer-nav a {
