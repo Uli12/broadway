@@ -32,11 +32,11 @@ footer {
   text-align: left;
   background-color: dimgray;
   color: white;
+  display: inline;
 }
 
 #footer-broadway {
   font-size: 11px;
-  display: inline;
 }
 
 .footer-nav a {
